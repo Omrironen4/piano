@@ -5,4 +5,4 @@ Enjoy!
 
 ## Screen Shot 
 
-! [screenshot](./media/Screen Shot 2022-02-18 at 12.13.02 PM.png)
+![pianopic](./media/pianopic.png)
